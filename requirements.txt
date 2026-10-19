@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]==22.5
+requests
+pikepdf
+python-dotenv
+httpx
